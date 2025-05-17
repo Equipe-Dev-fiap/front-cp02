@@ -168,7 +168,7 @@
   }
   /*imagem de fundo*/
   body {
-    background-image: url('../assets/imagemfundo.jpg'); /* ← AQUI está o link da imagem */
+    background-image: url('../assets/img/imagemfundo.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
